@@ -12,14 +12,14 @@ double t_seconds(std::chrono::time_point<timingClock> t1, std::chrono::time_poin
 
 int main() {
 
-  const int N = 800000000;
+  const long N = 800000000l;
   double dx = 1.0f/N;
 
   auto start = timingClock::now();
 
   double sum = 0.0f;
   #pragma omp parallel for
-  for(int i=0; i<N; ++i) {
+  for(long i=0; i<N; ++i) {
     double x = i*dx;
     sum += 4.0f/(1.0f + x*x)*dx;
   }
