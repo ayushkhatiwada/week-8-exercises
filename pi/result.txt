@@ -1,80 +1,80 @@
 Threads: 1
 Result: 3.14159
-Time for 800000000 iterations: 2.93795 s
+Time for 800000000 iterations: 2.8184 s
 
 Threads: 2
 Result: 3.14159
-Time for 800000000 iterations: 1.36302 s
+Time for 800000000 iterations: 1.31494 s
 
 Threads: 3
 Result: 3.14159
-Time for 800000000 iterations: 0.874496 s
+Time for 800000000 iterations: 0.863087 s
 
 Threads: 4
 Result: 3.14159
-Time for 800000000 iterations: 0.760301 s
+Time for 800000000 iterations: 0.644961 s
 
 Threads: 5
 Result: 3.14159
-Time for 800000000 iterations: 0.720084 s
+Time for 800000000 iterations: 0.613066 s
 
 Threads: 6
 Result: 3.14159
-Time for 800000000 iterations: 0.617442 s
+Time for 800000000 iterations: 0.546242 s
 
 Threads: 7
 Result: 3.14159
-Time for 800000000 iterations: 0.574559 s
+Time for 800000000 iterations: 0.490043 s
 
 Threads: 8
 Result: 3.14159
-Time for 800000000 iterations: 0.669198 s
+Time for 800000000 iterations: 1.31311 s
 
 Threads: 9
 Result: 3.14159
-Time for 800000000 iterations: 0.681033 s
+Time for 800000000 iterations: 0.401263 s
 
 Threads: 10
 Result: 3.14159
-Time for 800000000 iterations: 0.53737 s
+Time for 800000000 iterations: 0.380716 s
 
 Threads: 11
 Result: 3.14159
-Time for 800000000 iterations: 0.570816 s
+Time for 800000000 iterations: 0.359388 s
 
 Threads: 12
 Result: 3.14159
-Time for 800000000 iterations: 0.523224 s
+Time for 800000000 iterations: 0.336509 s
 
 Threads: 13
 Result: 3.14159
-Time for 800000000 iterations: 0.342483 s
+Time for 800000000 iterations: 0.314913 s
 
 Threads: 14
 Result: 3.14159
-Time for 800000000 iterations: 0.364022 s
+Time for 800000000 iterations: 0.34394 s
 
 Threads: 15
 Result: 3.14159
-Time for 800000000 iterations: 0.337585 s
+Time for 800000000 iterations: 0.29428 s
 
 Threads: 16
 Result: 3.14159
-Time for 800000000 iterations: 0.353862 s
+Time for 800000000 iterations: 0.290957 s
 
 Threads: 17
 Result: 3.14159
-Time for 800000000 iterations: 0.366856 s
+Time for 800000000 iterations: 0.345163 s
 
 Threads: 18
 Result: 3.14159
-Time for 800000000 iterations: 0.336161 s
+Time for 800000000 iterations: 0.305575 s
 
 Threads: 19
 Result: 3.14159
-Time for 800000000 iterations: 0.332531 s
+Time for 800000000 iterations: 0.302426 s
 
 Threads: 20
 Result: 3.14159
-Time for 800000000 iterations: 0.405595 s
+Time for 800000000 iterations: 0.310851 s
 
