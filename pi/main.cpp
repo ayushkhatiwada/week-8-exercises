@@ -18,7 +18,7 @@ int main() {
   auto start = timingClock::now();
 
   double sum = 0.0f;
-  #pragma omp parallel for
+#pragma omp parallel for reduction(+:sum)
   for(long i=0; i<N; ++i) {
     double x = i*dx;
     sum += 4.0f/(1.0f + x*x)*dx;
